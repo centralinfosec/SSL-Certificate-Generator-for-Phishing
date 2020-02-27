@@ -12,7 +12,7 @@ apt update
 apt install -y python-certbot-apache
 
 # Set the install directory
-installDirectory="/opt/jamesm0rr1s/SSL-Certificate-Generator-for-Phishing"
+installDirectory="/opt/Central-InfoSec/SSL-Certificate-Generator-for-Phishing"
 
 # Set if using ufw
 usingUfw=false
